@@ -1,0 +1,16 @@
+{
+  "name": "ayudantiam7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "pg": "^8.7.3",
+    "pg-cursor": "^2.7.3"
+  }
+}
